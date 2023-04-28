@@ -8,7 +8,7 @@
             <p>$\color{rgb(87,179,113)}{\textsf{© Chris Hughes}}$</p>
         </td>
         <td>
-            <img src="./assets/main.gif" width="500"/>
+            <img src="./assets/main.gif" width="300"/>
         </td>
     </table>
 </div>
