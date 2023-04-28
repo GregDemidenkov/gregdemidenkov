@@ -14,10 +14,16 @@
 </div>
 <br/>
 <div>
-    <h2>$\color{rgb(18,95,43)}{\textsf{ABOUT ME}}$</h2>
+    <h1>$\color{rgb(18,95,43)}{\textsf{ABOUT ME}}$</h1>
     <ul>
-        <li>🌏 I`m Frontend developer from Moscow, Russia</li>
-        <li>💻 Developing in frontend development for over 2 years</li>
-        <li>⌨ Basic technology stack: TypeScript/React/Redux/SCSS</li>
+        <li>
+            <h3>🌏 I`m Frontend developer from Moscow, Russia</h3>
+        </li>
+        <li>
+            <h3>💻 Developing in frontend development for over 2 years</h3>
+        </li>
+        <li>
+            <h3>⌨ Basic technology stack: TypeScript/React/Redux/SCSS</h3>
+        </li>
     </ul>
 </div>
