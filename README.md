@@ -8,7 +8,7 @@
             <p>© Chris Hughes</p>
         </td>
         <td>
-            <img src="./assets/main.gif" width="1300"/>
+            <img src="./assets/main.gif" width="400"/>
         </td>
     </table>
 </div>
