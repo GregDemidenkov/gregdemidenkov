@@ -4,11 +4,11 @@
             <h1 color = "green" >
                 $\color{rgb(18,95,43)}{\textsf{Welcome to the my Hub!}}$
             </h1>
-            <p><i>$\color{rgb(87,179,113)}{\textsf{«The more experienced a programmer is, the more he is aware of the scarcity of his knowledge and skills»}}$</i></p>
+            <p><i>$\color{rgb(87,179,113)}{\textsf{«The more experienced a programmer is,<br> the more he is aware of the scarcity of<br> his knowledge and skills»}}$</i></p>
             <p>$\color{rgb(87,179,113)}{\textsf{© Chris Hughes}}$</p>
         </td>
         <td>
-            <img src="./assets/main.gif" width="600"/>
+            <img src="./assets/main.gif" width="500"/>
         </td>
     </table>
 </div>
