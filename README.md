@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header">
     <table>
         <td align = "center">
             <h1 color = "green" >
@@ -13,7 +13,7 @@
     </table>
 </div>
 <br/>
-<div>
+<div id = "aboutMe">
     <h1>$\color{rgb(18,95,43)}{\textsf{ABOUT ME}}$</h1>
     <ul>
         <li>
