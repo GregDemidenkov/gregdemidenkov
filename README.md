@@ -4,8 +4,8 @@
             <h1 color = "green" >
                 $\color{rgb(18,95,43)}{\textsf{Welcome to the my Hub!}}$
             </h1>
-            <p><i>$\color{rgb(87,179,113)}{\textsf{«The more experienced a programmer is,}}$<br>$\color{rgb(87,179,113)}{\textsf{the more he is aware of the scarcity of}}$<br>$\color{rgb(87,179,113)}{\textsf{his knowledge and skills»}}$</i></p>
-            <p>$\color{rgb(87,179,113)}{\textsf{© Chris Hughes}}$</p>
+            <p><i>$\color{rgb(87,179,113)}{\textsf{«Measuring a programmer's productivity by counting}}$<br>$\color{rgb(87,179,113)}{\textsf{lines of code is like estimating the construction}}$<br>$\color{rgb(87,179,113)}{\textsf{of an aeroplane by its weight.»}}$</i></p>
+            <p>$\color{rgb(87,179,113)}{\textsf{© Bill Gates}}$</p>
         </td>
         <td>
             <img src="./assets/main.gif" width="400"/>
