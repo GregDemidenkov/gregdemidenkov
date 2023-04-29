@@ -1,4 +1,4 @@
-<div id="header">
+<div id="header" align = "center">
     <table>
         <td align = "center">
             <h1 color = "green" >
