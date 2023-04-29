@@ -30,6 +30,7 @@
 <br/>
 <div id = "technologies">
     <h1>$\color{rgb(18,95,43)}{\textsf{TECHNOLOGIES}}$</h1>
+    <br/>
     <div align = "center">
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width = "50" height = "50"/>
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width = "50" height = "50"/>
