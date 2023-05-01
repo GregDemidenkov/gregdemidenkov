@@ -20,7 +20,8 @@
             <h3>🌏 $\color{rgb(46,223,134)}{\textsf{I`m Frontend developer from Moscow, Russia}}$</h3>
         </li>
         <li>
-            <h3>💻 $\color{rgb(46,223,134)}{\textsf{Developing in frontend development for}}$$\color{rgb(223,184,41)}{\textsf{over 2 years}}$</h3>
+            <h3>💻 $\color{rgb(46,223,134)}{\textsf{Developing in frontend development for}}$
+            $\color{rgb(223,184,41)}{\textsf{over 2 years}}$</h3>
         </li>
         <li>
             <h3>⌨ $\color{rgb(46,223,134)}{\textsf{Basic technology stack: TypeScript/React/Redux/SCSS}}$</h3>
