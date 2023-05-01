@@ -57,3 +57,8 @@
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" width = "50" height = "50"/>
     </div>
 </div>
+<br/>
+<div id = "stats">
+    <h1>$\color{rgb(18,95,43)}{\textsf{MY STATS}}$</h1>
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GregDemidenkov&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
