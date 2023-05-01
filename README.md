@@ -30,7 +30,6 @@
 <br/>
 <div id = "technologies">
     <h1>$\color{rgb(18,95,43)}{\textsf{TECHNOLOGIES and TOOLS}}$</h1>
-    <br/>
     <h2 align = "center">$\color{rgb(87,179,113)}{\textsf{Frontend}}$</h2>
     <div align = "center">
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width = "50" height = "50"/>
