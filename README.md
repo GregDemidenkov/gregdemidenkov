@@ -60,5 +60,15 @@
 <br/>
 <div id = "stats">
     <h1>$\color{rgb(18,95,43)}{\textsf{MY STATS}}$</h1>
-    <img alt="language" src="https://github-readme-stats-six-chi-56.vercel.app/api/top-langs/?username=GregDemidenkov&langs_count=6&hide=Shell&layout=compact&theme=chartreuse-dark" width="360" height="170" />
+    <div align = "center">
+        <img alt="mystreak" src="https://github-readme-streak-stats.herokuapp.com/?user=GregDemidenkov&theme=gotham" />
+        <br/>
+        <br/>
+    </div>
+    <div align = "center">
+        <img alt="language" src="https://github-readme-stats-six-chi-56.vercel.app/api/top-langs/?username=GregDemidenkov&langs_count=6&hide=Shell&layout=compact&theme=gotham" width="360" height="170" />
+        <img alt="my github stat" src="https://github-readme-stats-evip01htp-mikhailgulkin.vercel.app/api?username=GregDemidenkov&show_icons=true&theme=gotham" height="170" />
+        <br/> 
+    </div>
+    <!-- <img align="center" style="text-align: center" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=GregDemidenkov&theme=dracula&row=2&column=3">    -->
 </div>
