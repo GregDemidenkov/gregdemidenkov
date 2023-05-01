@@ -69,7 +69,7 @@
         <br/>
     </div>
     <div align = "center">
-        <img alt="language" src="https://github-readme-stats-six-chi-56.vercel.app/api/top-langs/?username=GregDemidenkov&langs_count=6&hide=Shell&layout=compact&theme=blue-green" width="360" height="170" />
+        <img alt="language" src="https://github-readme-stats-six-chi-56.vercel.app/api/top-langs/?username=GregDemidenkov&langs_count=6&hide=Shell&layout=compact&theme=blue-green" width="400" height="170" />
         <img alt="my github stat" src="https://github-readme-stats.vercel.app/api?username=GregDemidenkov&show_icons=true&theme=blue-green" height="170" />
         <br/> 
     </div>
