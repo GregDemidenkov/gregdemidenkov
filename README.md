@@ -24,7 +24,8 @@
             $\color{rgb(223,184,41)}{\textsf{over 2 years}}$</h3>
         </li>
         <li>
-            <h3>⌨ $\color{rgb(46,223,134)}{\textsf{Basic technology stack: TypeScript/React/Redux/SCSS}}$</h3>
+            <h3>⌨ $\color{rgb(46,223,134)}{\textsf{Basic technology stack:}}$
+            $\color{rgb(223,184,41)}{\textsf{TypeScript/React/Redux/SCSS}}$</h3>
         </li>
     </ul>
 </div>
