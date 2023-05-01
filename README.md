@@ -29,7 +29,7 @@
 </div>
 <br/>
 <div id = "technologies">
-    <h1>$\color{rgb(18,95,43)}{\textsf{TECHNOLOGIES&TOOLS}}$</h1>
+    <h1>$\color{rgb(18,95,43)}{\textsf{TECHNOLOGIES and TOOLS}}$</h1>
     <br/>
     <h2 align = "center">$\color{rgb(87,179,113)}{\textsf{Frontend}}$</h2>
     <div align = "center">
