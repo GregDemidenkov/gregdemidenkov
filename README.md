@@ -2,7 +2,7 @@
     <table>
         <td align = "center">
             <h1 color = "green" >
-                $\color{rgb(87,179,113)}{\textsf{Welcome to the my Hub!}}$
+                $\color{rgb(44,151,188)}{\textsf{Welcome to the my Hub!}}$
             </h1>
             <p><i>$\color{rgb(46,223,134)}{\textsf{«Measuring a programmer's productivity by counting}}$<br>$\color{rgb(46,223,134)}{\textsf{lines of code is like estimating the construction}}$<br>$\color{rgb(46,223,134)}{\textsf{of an aeroplane by its weight.»}}$</i></p>
             <p>$\color{rgb(46,223,134)}{\textsf{© Bill Gates}}$</p>
