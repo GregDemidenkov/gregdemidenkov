@@ -14,7 +14,7 @@
 </div>
 <br/>
 <div id = "aboutMe">
-    <h1>$\color{rgb(87,179,113)}{\textsf{ABOUT ME}}$</h1>
+    <h1>$\color{rgb(44,151,188)}{\textsf{ABOUT ME}}$</h1>
     <ul>
         <li>
             <h3>🌏 $\color{rgb(46,223,134)}{\textsf{I`m Frontend developer from Moscow, Russia}}$</h3>
@@ -29,7 +29,7 @@
 </div>
 <br/>
 <div id = "technologies">
-    <h1>$\color{rgb(87,179,113)}{\textsf{TECHNOLOGIES and TOOLS}}$</h1>
+    <h1>$\color{rgb(44,151,188)}{\textsf{TECHNOLOGIES and TOOLS}}$</h1>
     <h3 align = "center">$\color{rgb(46,223,134)}{\textsf{Frontend}}$</h3>
     <div align = "center">
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width = "50" height = "50"/>
@@ -59,7 +59,7 @@
 </div>
 <br/>
 <div id = "stats">
-    <h1>$\color{rgb(87,179,113)}{\textsf{MY STATS}}$</h1>
+    <h1>$\color{rgb(44,151,188)}{\textsf{MY STATS}}$</h1>
     <div align = "center">
         <img alt="mystreak" src="https://github-readme-streak-stats.herokuapp.com/?user=GregDemidenkov&theme=blue-green" />
         <br/>
