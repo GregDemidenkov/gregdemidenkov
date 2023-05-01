@@ -73,5 +73,9 @@
         <img alt="my github stat" src="https://github-readme-stats.vercel.app/api?username=GregDemidenkov&show_icons=true&theme=blue-green" height="170" />
         <br/> 
     </div>
-    <!-- <img align="center" style="text-align: center" alt="trophy" src="https://github-profile-trophy.vercel.app/?username=GregDemidenkov&theme=dracula&row=2&column=3">    -->
+</div>
+<br/>
+<div id = "activity">
+    <h1>$\color{rgb(44,151,188)}{\textsf{MY ACTIVITY}}$</h1>
+    <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=GregDemidenkov&theme=react-dark"/>
 </div>
