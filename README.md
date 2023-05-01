@@ -18,15 +18,15 @@
     <ul>
         <li>
             <h3>🌏 $\color{rgb(46,223,134)}{\textsf{I`m Frontend developer from}}$
-            $\color{rgb(223,184,41)}{\textsf{Moscow, Russia}}$</h3>
+            $\color{rgb(44,151,188)}{\textsf{Moscow, Russia}}$</h3>
         </li>
         <li>
             <h3>💻 $\color{rgb(46,223,134)}{\textsf{Developing in frontend development for}}$
-            $\color{rgb(223,184,41)}{\textsf{over 2 years}}$</h3>
+            $\color{rgb(44,151,188)}{\textsf{over 2 years}}$</h3>
         </li>
         <li>
             <h3>⌨ $\color{rgb(46,223,134)}{\textsf{Basic technology stack:}}$
-            $\color{rgb(223,184,41)}{\textsf{TypeScript/React/Redux/SCSS}}$</h3>
+            $\color{rgb(44,151,188)}{\textsf{TypeScript/React/Redux/SCSS}}$</h3>
         </li>
     </ul>
 </div>
