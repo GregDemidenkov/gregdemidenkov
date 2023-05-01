@@ -60,5 +60,5 @@
 <br/>
 <div id = "stats">
     <h1>$\color{rgb(18,95,43)}{\textsf{MY STATS}}$</h1>
-    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GregDemidenkov&theme=dark&background=000000)](https://git.io/streak-stats)
+    <img alt="language" src="https://github-readme-stats-six-chi-56.vercel.app/api/top-langs/?username=GregDemidenkov&langs_count=6&hide=Shell&layout=compact&theme=chartreuse-dark" width="360" height="170" />
 </div>
