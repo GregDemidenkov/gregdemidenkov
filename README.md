@@ -29,8 +29,9 @@
 </div>
 <br/>
 <div id = "technologies">
-    <h1>$\color{rgb(18,95,43)}{\textsf{TECHNOLOGIES}}$</h1>
+    <h1>$\color{rgb(18,95,43)}{\textsf{TECHNOLOGIES & TOOLS}}$</h1>
     <br/>
+    <h2>$\color{rgb(87,179,113)}{\textsf{Frontend}}$</h2>
     <div align = "center">
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg" width = "50" height = "50"/>
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" width = "50" height = "50"/>
@@ -40,10 +41,18 @@
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width = "50" height = "50"/> 
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width = "50" height = "50"/> 
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width = "50" height = "50"/> 
+    </div>
+    <br/>
+    <h2>$\color{rgb(87,179,113)}{\textsf{Backend}}$</h2>
+    <div align = "center"> 
         <img src = "./assets/techIcons/mobx.svg" width = "50" height = "50"/> 
         <img src = "./assets/techIcons/express.svg" width = "50" height = "50"/> 
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" width = "50" height = "50"/>
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" width = "50" height = "50"/>
+    </div>
+    <br/>
+    <h2>$\color{rgb(87,179,113)}{\textsf{Other}}$</h2>
+    <div align = "center">
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width = "50" height = "50"/>
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" width = "50" height = "50"/>
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" width = "50" height = "50"/>
