@@ -8,7 +8,7 @@
             <p>$\color{rgb(46,223,134)}{\textsf{© Bill Gates}}$</p>
         </td>
         <td>
-            <img src="./assets/main.gif" width="400"/>
+            <img src="https://github.com/GregDemidenkov/gregdemidenkov/blob/main/assets/main.gif" width="400"/>
         </td>
     </table>
 </div>
