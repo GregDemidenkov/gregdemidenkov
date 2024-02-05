@@ -22,11 +22,15 @@
         </li>
         <li>
             <h3>💻 $\color{rgb(46,223,134)}{\textsf{Developing in frontend development for}}$
-            $\color{rgb(44,151,188)}{\textsf{over 2 years}}$</h3>
+            $\color{rgb(44,151,188)}{\textsf{over 3.5 years}}$</h3>
         </li>
         <li>
             <h3>⌨ $\color{rgb(46,223,134)}{\textsf{Basic technology stack:}}$
-            $\color{rgb(44,151,188)}{\textsf{TypeScript/React/Redux/SCSS}}$</h3>
+            $\color{rgb(44,151,188)}{\textsf{TypeScript/React(Next.js)/Redux/SCSS}}$</h3>
+        </li>
+        <li>
+            <h3>💼 $\color{rgb(46,223,134)}{\textsf{Workplace:}}$
+            $\color{rgb(44,151,188)}{\textsf{ProninTeam}}$</h3>
         </li>
     </ul>
 </div>
@@ -42,21 +46,25 @@
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" width = "50" height = "50"/> 
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width = "50" height = "50"/> 
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" width = "50" height = "50"/> 
-        <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width = "50" height = "50"/> 
+        <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original-wordmark.svg" width = "50" height = "50"/> 
+        <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width = "50" height = "50"/>
+        <img src = "./assets/techIcons/mobx.svg" width = "50" height = "50"/> 
+        <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nextjs/nextjs-original.svg" width = "50" height = "50"/>
     </div>
     <br/>
     <h3 align = "center">$\color{rgb(223,184,41)}{\textsf{Backend}}$</h3>
-    <div align = "center"> 
-        <img src = "./assets/techIcons/mobx.svg" width = "50" height = "50"/> 
+    <div align = "center">
         <img src = "./assets/techIcons/express.svg" width = "50" height = "50"/> 
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nodejs/nodejs-original-wordmark.svg" width = "50" height = "50"/>
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original-wordmark.svg" width = "50" height = "50"/>
+        <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/nestjs/nestjs-plain-wordmark.svg" width = "50" height = "50"/>
     </div>
     <br/>
     <h3 align = "center">$\color{rgb(31,111,234)}{\textsf{Other}}$</h3>
     <div align = "center">
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" width = "50" height = "50"/>
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original-wordmark.svg" width = "50" height = "50"/>
+        <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gitlab/gitlab-original-wordmark.svg" width = "50" height = "50"/>
         <img src = "https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" width = "50" height = "50"/>
     </div>
 </div>
@@ -69,13 +77,13 @@
         <br/>
     </div>
     <div align = "center">
-        <img alt="language" src="https://github-readme-stats-six-chi-56.vercel.app/api/top-langs/?username=GregDemidenkov&langs_count=6&hide=Shell&layout=compact&theme=blue-green" width="400" height="170" />
+<!--         <img alt="language" src="https://github-readme-stats-six-chi-56.vercel.app/api/top-langs/?username=GregDemidenkov&langs_count=6&hide=Shell&layout=compact&theme=blue-green" width="400" height="170" /> -->
         <img alt="my github stat" src="https://github-readme-stats.vercel.app/api?username=GregDemidenkov&show_icons=true&theme=blue-green" height="170" />
         <br/> 
     </div>
 </div>
 <br/>
-<div id = "activity">
+<!-- <div id = "activity">
     <h1>$\color{rgb(44,151,188)}{\textsf{MY ACTIVITY}}$</h1>
     <img alt="activity graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=GregDemidenkov&theme=react-dark"/>
-</div>
+</div> -->
